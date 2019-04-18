@@ -56,11 +56,6 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title></title>
-<urlsolve></urlsolve> 
-<thumbnail></thumbnail>
-</item>  
-<item>
 <title>2019) De Brabantse Pijl (1.HC)</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/w4lBALd.jpg</thumbnail>
@@ -69,7 +64,12 @@
 <title>[COLOR hotpink]2019) De Brabantse Pijl (1.HC)[/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/C9LXUre.jpg</thumbnail>
-</item>  
+</item> 
+<item>
+<title>2019) Paris-Camembert (1.1) -> [COLOR orange]Highlights[/COLOR]</title>
+<urlsolve></urlsolve> 
+<thumbnail>https://i.imgur.com/91XEHZz.png</thumbnail>
+</item>    
 <item>
 <title>2019) Presidential Cycling Tour of Turkey (2.UWT)</title>
 <link>ignoreme</link>
