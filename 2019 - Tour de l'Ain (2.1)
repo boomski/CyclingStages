@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title></title>
+<title>2019) Stage 1  »  Bourg-en-Bresse  ›  Saint-Vulbas</title>
+<thumbnail>https://i.imgur.com/32AAgI6.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>
+<item>
+<title>2019) Stage 2  »  Bellignat  ›  Col de la Faucille</title>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
 </item>
 <item>
-<title></title>
+<title>2019) Stage 3  »  Parc des Oiseaux (Villars-les-Dombes)  ›  Col du Grand Colombier</title>
 <thumbnail></thumbnail>
 <urlsolve></urlsolve>
-</item>
+</item> 
 </items>
