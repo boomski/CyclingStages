@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
- <item>
+<item>
+<title>2019 - Alkmaar - Men Elite</title>         
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/i74TgRS.png</thumbnail> 
+<fanart></fanart> 
+</item>  
+<item>
 <title>2018 - Glasgow - Men Elite</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085551</urlsolve>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085550</urlsolve>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085552</urlsolve>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085553</urlsolve>  
-<thumbnail>https://i0.wp.com/e1.365dm.com/18/08/16-9/20/skysports-matteo-trentin-glasgow_4388033.jpg</thumbnail>  
+<thumbnail>https://i.imgur.com/9RA65AJ.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XhNcnNF.jpg</fanart>  
 </item>
 <item>
 <title>2017 - Herning - Men Elite</title>         
 <urlsolve>https://my.mail.ru/video/embed/2828563979658330370</urlsolve>
-<thumbnail>https://pbs.twimg.com/media/DGjd5owW0AEIDyf.jpg:large</thumbnail>  
+<thumbnail>https://i.imgur.com/sHXixbD.jpg</thumbnail> 
+<fanart>https://i.imgur.com/M4jvuhx.jpg</fanart> 
 </item> 
 </items>
