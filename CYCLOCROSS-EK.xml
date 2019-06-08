@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2019 - Silvelle</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/wf3CJTg.jpg</thumbnail>  
+</item>  
+<item>
 <title>2018 - Rosmalen</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085152</urlsolve>
-<thumbnail>https://images.vrt.be/w1280hx/2018/11/04/2ded77b0-e046-11e8-abcc-02b7b76bf47f.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ntr3yJf.jpg</fanart>
+<thumbnail>https://i.imgur.com/5ehv0du.jpg</thumbnail>  
 </item>
 <item>
 <title>2017 - Tabor</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085203</urlsolve>
-<thumbnail>https://wielerflits-wpuypigxmvanblj7abke.stackpathdns.com/wp-content/uploads/2017/11/SF171105-10001-e1509893910173-728x350.jpg</thumbnail>
+<fanart>https://i.imgur.com/N48JSLK.jpg</fanart>  
+<thumbnail>https://i.imgur.com/9JRqVsl.jpg</thumbnail>
 </item>
 <item>
 <title>2016 - Pontchâteau</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085205</urlsolve>
-<thumbnail>http://www.offroadbiking.eu/wp-content/uploads/2016/10/Toon-Aerts-ek-ponchateau.jpg</thumbnail>
+<fanart>https://i.imgur.com/igAUGWW.jpg</fanart>  
+<thumbnail>https://i.imgur.com/vLPSoDu.jpg</thumbnail>
 </item>
 <item>
 <title>2015 - Huijbergen</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085204</urlsolve>
-<thumbnail>http://www.sport.be/media/photos/2015/november/vanderhaarhuijbergencover.jpg</thumbnail>
+<fanart>https://i.imgur.com/VnXHpKR.jpg</fanart>  
+<thumbnail>https://i.imgur.com/GN9GFI9.jpg</thumbnail>
 </item>  
 </items>
