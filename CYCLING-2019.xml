@@ -61,21 +61,21 @@
 <thumbnail></thumbnail>
 </item>  
 <item>
-<title>2019) </title>
-<urlsolve></urlsolve>
-<fanart></fanart>    
-<thumbnail></thumbnail>
+<title>2019) België Kampioenschap Tijdrijden (NC)</title>
+<link>http://api.new.livestream.com/accounts/3108428/events/8730278/live.m3u8</link>  
+<fanart>https://i.imgur.com/5fczPJX.jpg</fanart>    
+<thumbnail>https://i.imgur.com/pMVNMoT.png</thumbnail>
 </item>
 <item>
-<title>2019) IWT Oetingen (1.2)</title>         
-<link>http://api.new.livestream.com/accounts/3108428/events/8667646/live.m3u8</link>
+<title>2019) IWT Oetingen (1.2)</title>
+<urlsolve></urlsolve>  
 <thumbnail>https://i.imgur.com/PvSqpwo.jpg</thumbnail>
-<fanart>https://i.imgur.com/f6asLlW.jpg</fanart>    
+<fanart>https://i.imgur.com/TOX23wb.jpg</fanart>    
 </item>  
 <item>
 <title>2019) Halle - Ingooigem (1.1)</title>
 <urlsolve></urlsolve>
-<fanart></fanart>    
+<fanart>https://i.imgur.com/ssGtyw6.jpg</fanart>    
 <thumbnail>https://i.imgur.com/OwOn0QN.jpg</thumbnail>
 </item>
 <item>
