@@ -30,17 +30,33 @@
 <fanart></fanart>    
 <thumbnail></thumbnail>
 </item>
+  
+  
 <item>
-<title>2019) </title>
+<title>2019) Antwerp Port Epic / Sels Trophy (1.1)</title>
 <urlsolve></urlsolve>
 <fanart></fanart>    
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>2019) </title>
+<title>2019) OVO Energy Tour of Britain (2.HC)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/zGHRpn5.png</thumbnail> 
+<fanart>https://i.imgur.com/FaFpgN8.jpg</fanart>   
+</item>    
+<item>
+<title>2019) Brussels Cycling Classic (1.HC)</title>
 <urlsolve></urlsolve>
 <fanart></fanart>    
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/UyjqocR.png</thumbnail>
+</item>
+<item>
+<title>2019) Tour of Xingtai (2.2)</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Xingtai%20(2.2)/2019</externallink>
+<thumbnail>https://i.imgur.com/EfRmJcJ.jpg</thumbnail> 
+<fanart>https://i.imgur.com/wCXiPjf.jpg</fanart>   
 </item>  
 <item>
 <title>2019) Bretagne Classic - Ouest-France (1.UWT)</title>
