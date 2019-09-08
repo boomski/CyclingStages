@@ -24,12 +24,7 @@
 <fanart></fanart>    
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>2019) </title>
-<urlsolve></urlsolve>
-<fanart></fanart>    
-<thumbnail></thumbnail>
-</item>
+
   
   
 <item>
@@ -51,6 +46,12 @@
 <fanart>https://i.imgur.com/T7tceD7.jpg</fanart>    
 <thumbnail>https://i.imgur.com/UyjqocR.png</thumbnail>
 </item>
+<item>
+<title>2019) N8 Brasschaat (NE)</title>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155633997</urlsolve>
+<fanart>https://i.imgur.com/a59Gnvs.jpg</fanart>    
+<thumbnail>https://i.imgur.com/kpuTAQy.png</thumbnail>
+</item>  
 <item>
 <title>2019) Tour of Xingtai (2.2)</title>
 <link>ignoreme</link>
