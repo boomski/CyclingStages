@@ -31,12 +31,6 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>2019) </title>
-<urlsolve></urlsolve>
-<fanart></fanart>    
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>2019) Paris - Tours Elite (1.HC)</title>
 <urlsolve></urlsolve>
 <fanart></fanart>    
@@ -45,15 +39,28 @@
 <item>
 <title>2019) Il Lombardia (1.UWT)</title>
 <urlsolve></urlsolve>
-<fanart></fanart>    
+<fanart>https://i.imgur.com/qT7IEeq.jpg</fanart>    
 <thumbnail>https://i.imgur.com/RzH2Ct8.jpg</thumbnail>
 </item>
 <item>
+<title>2019) Tour of Taihu Lake (2.1)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/WCGYWb3.png</thumbnail> 
+<fanart>https://i.imgur.com/kc6FSKm.jpg</fanart>   
+</item>   
+<item>
 <title>2019) Gran Piemonte (1.HC)</title>
-<urlsolve></urlsolve>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634083</urlsolve>
 <fanart>https://i.imgur.com/ahxfEA4.jpg</fanart>    
 <thumbnail>https://i.imgur.com/DIqsbd2.png</thumbnail>
 </item>
+<item>
+<title>2019) Binche - Chimay - Binche (1.1)</title>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634081</urlsolve>
+<fanart>https://i.imgur.com/vM33BHa.jpg</fanart>    
+<thumbnail>https://i.imgur.com/AeCjc1b.png</thumbnail>
+</item>  
 <item>
 <title>2019) Milano-Torino (1.HC)</title>
 <urlsolve></urlsolve>
@@ -86,7 +93,7 @@
 </item>  
 <item>
 <title>2019) Tour de l'Eurométropole (1.HC)</title>
-<urlsolve></urlsolve>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634082</urlsolve>
 <fanart>https://i.imgur.com/hrNeu5J.jpg</fanart>    
 <thumbnail>https://i.imgur.com/sJDgL8Q.jpg</thumbnail>
 </item>
