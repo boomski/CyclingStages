@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>2019) </title>
-<urlsolve></urlsolve>
-<fanart></fanart>    
-<thumbnail></thumbnail>
+<title>2019) Criterium Saitama (NE)</title>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634113</urlsolve>
+<fanart>https://i.imgur.com/69CNmot.jpg</fanart>    
+<thumbnail>https://i.imgur.com/qg0SkE9.jpg</thumbnail>
 </item>
 <item>
-<title>2019) </title>
+<title>2019) Chrono des Nations (1.1)</title>
 <urlsolve></urlsolve>
-<fanart></fanart>    
-<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/kNhLkij.jpg</fanart>    
+<thumbnail>https://i.imgur.com/2aFRMms.jpg</thumbnail>
 </item>
 <item>
 <title>2019) Gree-Tour of Guangxi (2.UWT)</title>
-<urlsolve></urlsolve>
+<link>ignoreme</link>
+<externallink></externallink>
 <fanart>https://i.imgur.com/GOiOJGd.jpg</fanart>    
 <thumbnail>https://i.imgur.com/qsSUpXJ.jpg</thumbnail>
-</item>
-<item>
-<title>2019) Tour of Peninsular (2.1)</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Peninsular%20(2.1)/2019</externallink>
-<thumbnail>https://i.imgur.com/LDDCJIv.png</thumbnail> 
-<fanart>https://i.imgur.com/5LAHJor.jpg</fanart>   
 </item>  
 <item>
 <title>2019) Tour of Peninsular (2.1)</title>
