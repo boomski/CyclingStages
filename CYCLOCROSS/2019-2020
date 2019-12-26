@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>2019) World Cup #6 >> Namur</title>
+<title>2019) World Cup #7 >> Heusden-Zolder</title>
 <urlsolve></urlsolve>
 <urlsolve></urlsolve>  
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/p5LeQKw.jpg</thumbnail>   
+</item>  
+<item>
+<title>2019) World Cup #6 >> Namur</title>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634148</urlsolve>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634150</urlsolve>  
 <fanart>https://i.imgur.com/CaJ1L73.jpg</fanart>
 <thumbnail>https://i.imgur.com/p5LeQKw.jpg</thumbnail>   
 </item>   
 <item>
 <title>2019) Rectavit Series #3 >> Sint-Niklaas (C2)</title>
-<urlsolve></urlsolve>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634149</urlsolve>
 <fanart>https://i.imgur.com/6tDWNGW.jpg</fanart>
 <thumbnail>https://i.imgur.com/Ml6mryb.png</thumbnail>   
 </item>  
