@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2020) Volta a la Comunitat Valenciana (2.Pro)</title>
+<fanart></fanart>   
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Volta%20a%20la%20Comunitat%20Valenciana%20(2.Pro)/2020</externallink>
+<thumbnail>https://i.imgur.com/rnRfWE6.png</thumbnail>   
+</item>  
+<item>
 <title>2020) Jayco Herald Sun Tour (2.1)</title>
 <fanart>https://i.imgur.com/hpBEfEh.jpg</fanart>   
 <link>ignoreme</link>
@@ -14,8 +21,12 @@
 <externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Saudi%20Arabia%20(2.1)/2020</externallink>
 <thumbnail>https://i.imgur.com/Yry798W.jpg</thumbnail>   
 </item> 
-  
-  
+<item>
+<title>2020) Cadel Evans Great Ocean Road Race (1.UWT)</title>
+<fanart>https://i.imgur.com/u13hZXq.jpg</fanart>  
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/lAdFlRR.png</thumbnail> 
+</item>   
 <item>
 <title>2020) Race Torquay (1.1)</title>
 <fanart>https://i.imgur.com/CbQ1TbJ.jpg</fanart>  
