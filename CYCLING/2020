@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2020) Clasica de Almeria (1.Pro)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/uqSEoXQ.jpg</thumbnail> 
+</item> 
+<item>
+<title>2020) Trofeo Laigueglia (1.Pro)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/FAjKMj2.png</thumbnail> 
+</item>  
+<item>
+<title>2020) Malaysian International Classic Race (1.1)</title>
+<fanart>https://i.imgur.com/EeY8fJs.jpg</fanart>  
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/MoTuZcV.png</thumbnail> 
+</item>   
+<item>
 <title>2020) Vuelta Ciclista a la Región de Murcia (2.1)</title>
 <fanart>https://i.imgur.com/mIy9ENr.jpg</fanart>   
 <link>ignoreme</link>
