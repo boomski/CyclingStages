@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2020) Strade Bianche (1.UWT)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/Lcoied3.png</thumbnail> 
+</item>  
+<item>
+<title>2020) Le Samyn (1.1)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/OvlzCeU.png</thumbnail> 
+</item>   
+<item>
+<title>2020) Tour de Taiwan (2.1)</title>
+<fanart>https://i.imgur.com/hE1uNTv.jpg</fanart>   
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20de%20Taiwan%20(2.1)/2020</externallink>
+<thumbnail>https://i.imgur.com/cugE5by.png</thumbnail>   
+</item>  
+<item>
 <title>2020) Royal Bernard Drome Classic (1.Pro)</title>
 <fanart>https://i.imgur.com/BoXuOTn.jpg</fanart>  
 <urlsolve></urlsolve>
