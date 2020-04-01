@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>De Ronde 103</title>
+<thumbnail>https://i.imgur.com/Fbz1ncG.jpg</thumbnail>
+<urlsolve></urlsolve>
+</item>  
+<item>
 <title>De Ronde 102</title>
 <thumbnail>https://i.imgur.com/902pMSp.jpg</thumbnail>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085757</urlsolve>
@@ -9,7 +14,12 @@
 <title>De Ronde 101</title>
 <thumbnail>https://i.imgur.com/faKjK9V.jpg</thumbnail>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085758</urlsolve>
-</item>   
+</item>  
+<item>
+<title>De Ronde 100</title>
+<thumbnail>https://i.imgur.com/PmU1gyu.jpg</thumbnail>
+<urlsolve>https://my.mail.ru/video/embed/9160195692155634303</urlsolve>
+</item>  
 <item>
 <title>25/03/2020: "In u Kot"</title>         
 <urlsolve>https://my.mail.ru/video/embed/9160195692155634302</urlsolve>
