@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>  
+<items> 
+<item>
+<title>TEST 2</title>
+<fanart>https://i.imgur.com/O22sxzO.jpg</fanart>  
+<urlsolve>https://eu.lbryplayer.xyz/content/claims/stradebianche2018fullrace/3f8cd2ac70162f3cd0480fd5e064226878e756dc/stream</urlsolve>
+<thumbnail>https://i.imgur.com/KbYMoZR.png</thumbnail> 
+</item>  
+<item>
+<title>TEST</title>
+<fanart>https://i.imgur.com/O22sxzO.jpg</fanart>  
+<link>https://eu.lbryplayer.xyz/content/claims/stradebianche2018fullrace/3f8cd2ac70162f3cd0480fd5e064226878e756dc/stream</link>
+<thumbnail>https://i.imgur.com/KbYMoZR.png</thumbnail> 
+</item>    
 <item>
 <title>2020) De Ronde 2020 - Lockdown Edition (E-CYCLING)</title>
 <fanart>https://i.imgur.com/O22sxzO.jpg</fanart>  
