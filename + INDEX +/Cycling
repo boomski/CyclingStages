@@ -22,11 +22,18 @@
 <fanart>https://i.imgur.com/7fqeInw.jpg</fanart>  
 </item>
 <item>
-<title>Wereld Uurrecord</title>
+<title>Sporza Retro</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/4-Wereld%20Uurrecord.xml</externallink>
-<thumbnail>https://i.imgur.com/kh5gWHa.jpg</thumbnail>
-<fanart>https://i.imgur.com/A9r85YS.jpg</fanart>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/SPORZA-RETRO</externallink>
+<thumbnail>https://i.imgur.com/l0qZQaC.jpg</thumbnail>
+<fanart>https://i.imgur.com/RAzxOMP.jpg</fanart>  
+</item> 
+<item>
+<title>Flanders Classic</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/FLANDERS-CLASSIC</externallink>
+<thumbnail>https://i.imgur.com/EyDiIyU.jpg</thumbnail>
+<fanart>https://i.imgur.com/aCGAzKZ.jpg</fanart>  
 </item>    
 <item>
 <title>Extra Time Koers</title>
@@ -34,12 +41,5 @@
 <externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/5-Extra_Time_Koers.xml</externallink>
 <thumbnail>https://i.imgur.com/WImpHmH.jpg</thumbnail>
 <fanart>https://i.imgur.com/KUvIeW2.jpg</fanart>  
-</item>  
-<item>
-<title>Fixed Gear</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/6-Fixed-Gear-Races.xml</externallink>
-<thumbnail>https://i.imgur.com/4Q0mW1G.jpg</thumbnail>  
-<fanart>https://i.imgur.com/EhK4IIi.png</fanart>    
-</item> 
+</item>   
 </items> 
