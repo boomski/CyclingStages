@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>
-<channel>
-<name>Rode Duivels</name> 
-<fanart>https://i.imgur.com/cyNVq2d.jpg</fanart>
 <items>     
+
 <item>
-<title>WK 2018 - 1/8 Finales | België - Japan</title>         
-<link>https://cdn.lbryplayer.xyz/api/v2/streams/free/BEL-vs-JPN-(2018)/3e4ac8a8745b0633ca7e95e258119aa6755739cb</link>
-<fanart>https://i.imgur.com/uIZfRX8.jpg</fanart>           
-</item>                 
-</items>
-</channel>  
+<title>Rode Duivels</title>         
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/LBRY.TV/RodeDuivels</externallink>
+<fanart>https://i.imgur.com/cyNVq2d.jpg</fanart>        
+</item>   
   
-<channel>
-<name></name> 
-<fanart></fanart>
-<items>     
-<item>
-<title></title>         
-<link></link>
-<fanart></fanart>           
-</item>                 
+  
 </items>
-</channel>    
-</channels>
+
