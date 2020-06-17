@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>   
+  
+<item>
+<title>WK 2018 - 1/4 Finales | Brazilië - België</title>         
+<link>https://cdn.lbryplayer.xyz/api/v2/streams/free/BRA-BEL-2018/c7f04ec20a8d46f939005aa18be1d14e2d0c6dd2</link>
+<fanart>https://i.imgur.com/4bUeYt9.jpg</fanart>           
+</item>   
 
 <item>
 <title>WK 2018 - 1/8 Finales | België - Japan</title>         
@@ -7,10 +13,6 @@
 <fanart>https://i.imgur.com/uIZfRX8.jpg</fanart>           
 </item> 
 
-<item>
-<title></title>         
-<link></link>
-<fanart></fanart>           
-</item> 
+
 
 </items>
