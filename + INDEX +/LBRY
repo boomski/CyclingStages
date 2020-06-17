@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>     
-
 <item>
-<title>Rode Duivels</title> 
+<title>FILMS | LBRY Movies</title> 
+<link>ignore</link>  
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/Movies/LBRY</externallink>
+<fanart>https://i.imgur.com/TXDBWgY.jpg</fanart>        
+</item> 
+  
+<item>
+<title>VOETBAL | Rode Duivels</title> 
 <link>ignore</link>  
 <externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/%2B%20INDEX%20%2B/LBRY.TV/RodeDuivels</externallink>
 <fanart>https://i.imgur.com/cyNVq2d.jpg</fanart>        
 </item> 
 
 <item>
-<title>LBRY Movies</title> 
+<title>VOETBAL | Coppa Italia</title> 
 <link>ignore</link>  
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/Movies/LBRY</externallink>
-<fanart>https://i.imgur.com/TXDBWgY.jpg</fanart>        
-</item>   
+<externallink></externallink>
+<fanart>https://i.imgur.com/qShi3aK.jpg</fanart>        
+</item>  
+  
   
   
     
