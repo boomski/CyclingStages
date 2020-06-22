@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>   
+<item>
+<title>2020 | Round 17 | Salt Lake City</title>         
+<link>https://cdn.lbryplayer.xyz/api/v2/streams/free/2020-AMA-Supercross-Rd-17-Salt-Lake-City/f791e4814749dbc5d2038b397658a7e356f96df5</link>
+<fanart>https://i.imgur.com/qorzZHn.jpg</fanart>           
+</item>  
   
 <item>
 <title>2020 | Round 16 | Salt Lake City</title>         
 <link>https://cdn.lbryplayer.xyz/api/v2/streams/free/2020-AMA-Supercross-Rd-16-Salt-Lake-City/0a22ddc1682e003c27c58c0d4438c14c96c08c39</link>
 <fanart>https://i.imgur.com/BsdGCDf.jpg</fanart>           
-</item>   
+</item>  
+  
+<item>
+<title>2020 | Round 15 | Salt Lake City</title>         
+<link>https://cdn.lbryplayer.xyz/api/v2/streams/free/2020-AMA-Supercross-Rd-15-Salt-Lake-City-5-720p-WEBrip/61fbdd0ceddf1b29b099e689b1c63126cd8bd750</link>
+<fanart>https://i.imgur.com/jbSyIPE.jpg</fanart>           
+</item>    
 
 </items>
 
