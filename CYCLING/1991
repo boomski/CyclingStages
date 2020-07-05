@@ -4,5 +4,11 @@
 <title>1991) Gastown Grand Prix</title>
 <link>https://cdn.lbryplayer.xyz/api/v2/streams/free/1991-Gastown-Grand-Prix/49282d9e942fe86d97141b5ce5d332ad73be2e52</link>
 <fanart>https://i.imgur.com/GGfjr6B.jpg</fanart>  
-</item>  
+</item> 
+<item>
+<title>1991) Tour de France</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20de%20France%20(2.UWT)/1991</externallink>
+<fanart>https://i.imgur.com/jmlA1xm.jpg</fanart>   
+</item>    
 </items>
