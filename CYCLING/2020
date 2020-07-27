@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>2020) Milano-Torino (1.Pro)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>  
+<item>
+<title>2020) Tour de Pologne (2.UWT)</title>
+<fanart>https://i.imgur.com/jFbRDnP.jpg</fanart>   
+<link>ignore</link>
+<externallink></externallink>
+</item>
+<item>
+<title>2020) Gran Trittico Lombardo (1.Pro)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>   
+<item>
+<title>2020) Circuito de Getxo-Memorial Hermanos Otxoa (1.1)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>   
+<item>
+<title>2020) La Route d'Occitanie - La Dépêche du Midi (2.1)</title>
+<fanart>https://i.imgur.com/6tv62CT.png</fanart>   
+<link>ignore</link>
+<externallink></externallink>
+</item>  
+<item>
+<title>2020) Strade Bianche (1.UWT)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>   
+<item>
+<title>2020) Vuelta a Burgos (2.Pro)</title>
+<fanart>https://i.imgur.com/adWRgPN.jpg</fanart>   
+<link>ignore</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Vuelta%20a%20Burgos%20(2.HC)/2020</externallink>
+</item>   
+<item>
 <title>2020) Sibiu Cycling Tour (2.1)</title>
 <fanart>https://i.imgur.com/YD9BmK8.jpg</fanart>   
 <link>ignore</link>
