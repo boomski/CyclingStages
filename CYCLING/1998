@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>1998) Tour de France</title>
+<urlsolve>https://my.mail.ru/video/embed/9160051480038735922</urlsolve>
+<fanart>https://i.imgur.com/1Jjmajq.jpg</fanart>  
+</item>  
 <item>
 <title>1998) Gent - Wevelgem</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085723</urlsolve>
-<thumbnail>https://i.imgur.com/3J6QhP1.png</thumbnail>
 <fanart>https://i.imgur.com/ySaIYVy.jpg</fanart>  
 </item>  
 </items>
