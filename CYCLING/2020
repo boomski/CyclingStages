@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ 
+<item>
+<title>2020) VOO-Tour de Wallonie (2.Pro)</title>
+<fanart>https://i.imgur.com/xO3ZKfx.jpg</fanart>   
+<link>ignore</link>
+<externallink></externallink>
+</item>  
+<item>
+<title>2020) Dwars door het Hageland (1.Pro)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>   
+<item>
+<title>2020) Il Lombardia (1.UWT)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>   
+<item>
+<title>2020) Baltic Chain Tour (2.2)</title>
+<fanart>https://i.imgur.com/yJDJKG3.jpg</fanart>   
+<link>ignore</link>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Baltic%20Chain%20Tour%20(2.2)/2020</externallink>
+</item>   
 <item>
 <title>2020) Critérium du Dauphiné (2.UWT)</title>
 <fanart>https://i.imgur.com/gVzB1MZ.jpg</fanart>   
