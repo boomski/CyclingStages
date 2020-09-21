@@ -14,12 +14,6 @@
 <fanart>https://i.imgur.com/kNhLkij.jpg</fanart>    
 </item>
 <item>
-<title>2019) Gree-Tour of Guangxi (2.UWT)</title>
-<link>ignoreme</link>
-<externallink></externallink>
-<fanart>https://i.imgur.com/GOiOJGd.jpg</fanart>    
-</item>  
-<item>
 <title>2019) Tour of Peninsular (2.1)</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Peninsular%20(2.1)/2019</externallink>
@@ -556,7 +550,7 @@
 <title>2019) Hammer Series - Limburg (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Hammer%20Limburg</externallink>   
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Hammer/Limburg/2019</externallink>   
 </item> 
 <item>
 <title>2019) Boucles de la Mayenne (2.1)</title>
@@ -574,7 +568,7 @@
 <title>2019) Orlen Nations Grand Prix (2.Ncup - U23)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Orlen%20Nations%20Grand%20Prix%20(2.Ncup)</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Orlen%20Nations%20Grand%20Prix%20(2.Ncup)/2019</externallink>
 </item>   
 <item>
 <title>2019) Circuit de Wallonie (1.1)</title>
@@ -585,7 +579,7 @@
 <title>2019) Tour of Norway (2.HC)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20of%20Norway%20(2.HC)</externallink>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Norway%20(2.HC)/2019</externallink>  
 </item>   
 <item>
 <title>2019) Winston Salem Cycling Classic (1.2)</title>
@@ -607,25 +601,25 @@
 <title>2019) Hammer Series - Stavanger (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Hammer%20-%20Stavanger</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Hammer/Stavanger/2019</externallink>
 </item>   
 <item>
 <title>2019) Tour of Japan (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>  
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20of%20Japan%20(2.1)</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Japan%20(2.1)/2019</externallink>
 </item> 
 <item> 
 <title>2019) Vuelta Aragón (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>  
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Vuelta%20Arag%C3%B3n%20(2.1)</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Vuelta%20Arag%C3%B3n%20(2.1)/2019</externallink>
 </item>  
 <item>
 <title>2019) Tour de Limpopo (2.2)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>  
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20de%20Limpopo%20(2.2)</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20de%20Limpopo%20(2.2)/2019</externallink>
 </item>  
 <item>
 <title>2019) 4 Jours de Dunkerque / Grand Prix des Hauts de France (2.HC)</title>
@@ -643,7 +637,7 @@
 <title>2019) Giro d'Italia (2.UWT)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Giro%20d'Italia%20(2.UWT).xml</externallink>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Giro%20d'Italia%20(2.UWT)/2019</externallink>  
 </item>   
 <item>
 <title>2019) Ronde van Overijssel (1.2)</title>
@@ -660,12 +654,13 @@
 <title>2019) Vuelta Asturias Julio Alvarez Mendo (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Vuelta%20Asturias%20Julio%20Alvarez%20Mendo%20(2.1)</externallink>   
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Vuelta%20Asturias%20Julio%20Alvarez%20Mendo%20(2.1)/2019</externallink>   
 </item>  
 <item>
 <title>2019) Tour de Yorkshire (2.HC)</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20de%20Yorkshire%20(2.HC)</externallink>   
+<fanart></fanart>   
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20de%20Yorkshire%20(2.HC)/2019</externallink>   
 </item>    
 <item>
 <title>2019) Eschborn-Frankfurt (1.UWT)</title>
@@ -676,7 +671,7 @@
 <title>2019) Tour de Romandie (2.UWT)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20de%20Romandie%20(2.UWT)</externallink>   
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20de%20Romandie%20(2.UWT)/2019</externallink>   
 </item>   
 <item>
 <title>2019) Liège-Bastogne-Liège (1.UWT)</title>
@@ -704,7 +699,7 @@
 <title>2019) Tour of the Alps (2.HC)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20of%20the%20Alps%20(2HC)</externallink>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20the%20Alps%20(2.HC)/2019</externallink>  
 </item>   
 <item>
 <title>2019) Tro-Bro Léon (1.1)</title>
@@ -750,12 +745,12 @@
 <title>2019) Presidential Cycling Tour of Turkey (2.UWT)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Presidential%20Cycling%20Tour%20of%20Turkey%20(2.UWT).xml</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Presidential%20Cycling%20Tour%20of%20Turkey%20(2.UWT)/2019</externallink>
 </item>  
 <item>
 <title>2019) Paris-Roubaix (1.UWT)</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Paris-Roubaix</externallink> 
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Paris-Roubaix/2019</externallink> 
 <fanart>https://i.imgur.com/d1lgwSx.jpg</fanart>  
 </item>  
 <item>
@@ -777,13 +772,13 @@
 <title>[COLOR hotpink]2019) Healthy Ageing Tour (2.1)[/COLOR]</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Healthy%20Ageing%20Tour.xml</externallink>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Healthy%20Ageing%20Tour/2019</externallink>  
 </item>   
 <item>
 <title>2019) Itzulia Basque Country (2.UWT)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>  
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Itzulia%20Basque%20Country%20(2.UWT).xml</externallink>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Itzulia%20Basque%20Country%20(2.UWT)/2019</externallink>  
 </item>  
 <item>
 <title>2019) Ronde van Vlaanderen (1.UWT)</title>
@@ -821,7 +816,7 @@
 <title>2019) Giro di Sicilia (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Giro%20di%20Sicilia%20(2.1).xml</externallink>  
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Giro%20di%20Sicilia%20(2.1)/2019</externallink>  
 </item>   
 <item>
 <title>2019) Dwars door Vlaanderen (1.UWT)</title>
@@ -838,7 +833,7 @@
 <title>2019) The Princess Maha Chackri Sirindhorn's Cup: Tour of Thailand (2.1)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20The%20Princess%20Maha%20Chackri%20Sirindhorn's%20Cup%20-%20Tour%20of%20Thailand%20(2.1).xml</externallink> 
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/The%20Princess%20Maha%20Chackri%20Sirindhorn's%20Cup%20-%20Tour%20of%20Thailand%20(2.1)/2019</externallink> 
 </item>   
 <item>
 <title>2019) Gent-Wevelgem in Flanders Fields (1.UWT)</title>
@@ -881,7 +876,7 @@
 <title>2019) Volta Ciclista a Catalunya (2.UWT)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Volta%20Ciclista%20a%20Catalunya%20(2.UWT).xml</externallink>   
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Volta%20Ciclista%20a%20Catalunya%20(2.UWT)/2019</externallink>   
 </item> 
 <item>
 <title>2019) Grand Prix de Denain - Porte du Hainaut (1.HC)</title>
@@ -928,24 +923,12 @@
 <title>[COLOR hotpink]2019) Women's WorldTour Ronde van Drenthe (1.WWT)[/COLOR]</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085670</urlsolve>
 <fanart>https://i.imgur.com/yOzIW7b.jpg</fanart>
-</item>
-<item>
-<title>2019) USA Crits Series (NE)</title>
-<fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20USA%20Crits%20Series%20-%20Men</externallink>
 </item> 
-<item>
-<title>[COLOR hotpink]2019) USA Crits Women Series (NE)[/COLOR]</title>
-<fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20USA%20Crits%20Series%20-%20Women</externallink> 
-</item>   
 <item>
 <title>2019) Redlands Bicycle Classic (2.NE)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Redlands%20Bicycle%20Classic%20(2.NE).xml</externallink> 
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Redlands%20Bicycle%20Classic%20(2.NE)/2019</externallink> 
 </item>  
 <item>
 <title>2019) Tirreno-Adriatico (2.UWT)</title>
@@ -1021,7 +1004,7 @@
 <title>2019) Circuit des Plages de Vendée (2.NE)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Circuit%20des%20Plages%20de%20Vend%C3%A9e%20(2.NE).xml</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Circuit%20des%20Plages%20de%20Vend%C3%A9e%20(2.NE)/2019</externallink>
 </item>    
 <item>
 <title>2019) Ster van Zwolle (1.2)</title>
@@ -1032,7 +1015,7 @@
 <title>2019) Tour of Antalya (2.2)</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20of%20Antalya%20(2.2).xml</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Antalya%20(2.2)/2019</externallink>
 </item>   
 <item>
 <title>2019) Volta ao Algarve em Bicicleta (2.HC)</title>
@@ -1060,7 +1043,7 @@
 <title>2019) Tour of Oman (2.HC) [COLOR orange]Highlights[/COLOR]</title>
 <fanart>https://i.imgur.com/pw0Vyfs.jpg</fanart>   
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/2019%20-%20Tour%20of%20Oman%20(2.HC).xml</externallink>
+<externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20of%20Oman%20(2.HC)/2019</externallink>
 </item>   
 <item>
 <title>2019) Vuelta Ciclista a la Región de Murcia Costa Cálida (2.1)</title>
