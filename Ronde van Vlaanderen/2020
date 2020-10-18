@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title></title>         
+<title>EUROSPORT | Full Race</title>         
+<link></link>
+<fanart>https://i.imgur.com/v78JneI.jpg</fanart>  
+</item>  
+<item>
+<title>EUROSPORT | START</title>         
 <urlsolve></urlsolve>
+<fanart>https://i.imgur.com/B23nTf4.jpg</fanart>  
 </item>
 <item>
-<title></title>         
+<title>EUROSPORT | 163 Km > 76 Km </title>         
 <urlsolve></urlsolve>
+<fanart>https://i.imgur.com/pYUKZBT.jpg</fanart>  
 </item>
 <item>
-<title></title>         
+<title>EUROSPORT | FINAL</title>         
 <urlsolve></urlsolve>
+<fanart>https://i.imgur.com/YvtFFlf.jpg</fanart>  
 </item>
 <items>
