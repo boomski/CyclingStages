@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2020) AG Driedaagse Brugge-De Panne (1.UWT)</title>
+<fanart></fanart>  
+<urlsolve></urlsolve>
+</item>   
+<item>
 <title>2020) Ronde van Vlaanderen (1.UWT)</title>
 <fanart>https://i.imgur.com/v78JneI.jpg</fanart> 
 <link>ignoreme</link>
@@ -8,7 +13,7 @@
 </item>  
 <item>
 <title>2020) België Kampioenschap - Wegrit - Lokeren (U23)</title>
-<fanart>blob:https://imgur.com/f79b017e-10b9-439a-a0e8-d5f6bc61cc2b</fanart> 
+<fanart>https://i.imgur.com/GCQYqdR.png</fanart> 
 <link>ignoreme</link>
 <externallink></externallink>   
 </item>   
