@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2021 - Oostende - Men Elite</title>
+<urlsolve></urlsolve>
+<fanart></fanart>
+</item>
+<item>
+<title>2021 - Oostende - Men U23</title>
+<urlsolve></urlsolve>
+<fanart></fanart>
+</item>  
+<item>
+<title>2021 - Oostende - Women Elite</title>
+<urlsolve></urlsolve>
+<fanart></fanart>
+</item>
+<item>
+<title>2021 - Oostende - Women U23</title>
+<urlsolve></urlsolve>
+<fanart></fanart>
+</item>  
+<item>
 <title>2020 - Dubendorf - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9160195692155634195</urlsolve>
 <fanart>https://i.imgur.com/mCYFaxK.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2020 - Dubendorf - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9160195692155634199</urlsolve>
 <fanart>https://i.imgur.com/CZ3iD8q.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2020 - Dubendorf - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9160195692155634197</urlsolve>
 <fanart>https://i.imgur.com/lSuXtiY.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2020 - Dubendorf - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9160195692155634196</urlsolve>
 <fanart>https://i.imgur.com/f07ro7V.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2020 - Dubendorf - Women U23</title>
@@ -34,552 +50,460 @@
 <title>2020 - Dubendorf - Women Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9160195692155634198</urlsolve>
 <fanart>https://i.imgur.com/VzR4vnE.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>   
 <item>
 <title>2019 - Bogense - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085546</urlsolve>
 <fanart>https://i.imgur.com/5RTomfP.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2019 - Bogense - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085539</urlsolve>
 <fanart>https://i.imgur.com/aSzM0bZ.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2019 - Bogense - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085536</urlsolve>
 <fanart>https://i.imgur.com/26y1hkX.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2019 - Bogense - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085540</urlsolve>
 <fanart>https://i.imgur.com/Fo1IHZH.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2019 - Bogense - Women U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085543</urlsolve>
 <fanart>https://i.imgur.com/tIlt4M6.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2018 - Valkenburg - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085383</urlsolve>
 <fanart>https://i.imgur.com/Hwf5CFb.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2018 - Valkenburg - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085365</urlsolve>
 <fanart>https://i.imgur.com/p91nrzA.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2018 - Valkenburg - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085371</urlsolve>
 <fanart>https://i.imgur.com/Ap2hmfl.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2018 - Valkenburg - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085386</urlsolve>
 <fanart>https://i.imgur.com/TtaaN3I.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2018 - Valkenburg - Women U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085370</urlsolve>
 <fanart>https://i.imgur.com/tFestnY.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2017 - Bieles - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085372</urlsolve>
 <fanart>https://i.imgur.com/JoefawB.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2017 - Bieles - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085373</urlsolve>
 <fanart>https://i.imgur.com/Bqvmw3N.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2017 - Bieles - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085364</urlsolve>
 <fanart>https://i.imgur.com/uMnC3Cs.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2017 - Bieles - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085375</urlsolve>
 <fanart>https://i.imgur.com/L6pcRwT.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2017 - Bieles - Women U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085374</urlsolve>
 <fanart>https://i.imgur.com/8YSAoE4.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2016 - Heusden-Zolder - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085429</urlsolve>
 <fanart>https://i.imgur.com/ETBE7Lb.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2016 - Heusden-Zolder - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085380</urlsolve>
 <fanart>https://i.imgur.com/AEoiixr.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2016 - Heusden-Zolder - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085379</urlsolve>
 <fanart>https://i.imgur.com/6DRBru5.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2016 - Heusden-Zolder - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085430</urlsolve>
 <fanart>https://i.imgur.com/ZXtwr3V.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2016 - Heusden-Zolder - Women U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085381</urlsolve>
 <fanart>https://i.imgur.com/VeJzhhU.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2015 - Tabor - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085377</urlsolve>
 <fanart>https://i.imgur.com/XTFPmOU.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2015 - Tabor - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085433</urlsolve>
 <fanart>https://i.imgur.com/TcvnUe0.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2015 - Tabor - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085432</urlsolve>
 <fanart>https://i.imgur.com/MFmy7VF.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2015 - Tabor - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085376</urlsolve>
 <fanart>https://i.imgur.com/BR2cU2v.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2014 - Hoogerheide - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085427</urlsolve>
 <fanart>https://i.imgur.com/XyIeI94.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2014 - Hoogerheide - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085428</urlsolve>
 <fanart>https://i.imgur.com/YvhRLvd.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2014 - Hoogerheide - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085434</urlsolve>
 <fanart>https://i.imgur.com/HotDyxQ.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2014 - Hoogerheide - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085431</urlsolve>
 <fanart>https://i.imgur.com/nC0HhEA.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2013 - Louisville - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085403</urlsolve>
 <fanart>https://i.imgur.com/gN33OPC.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2013 - Louisville - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085406</urlsolve>
 <fanart>https://i.imgur.com/MOnVdNs.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2013 - Louisville - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085404</urlsolve>
 <fanart>https://i.imgur.com/78XaOkA.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2013 - Louisville - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085405</urlsolve>
 <fanart>https://i.imgur.com/Wrbpbtc.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item> 
 <title>2012 - Koksijde - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085269</urlsolve>
 <fanart>https://i.imgur.com/Q49AkwP.jpg</fanart> 
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2012 - Koksijde - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085324</urlsolve>
 <fanart>https://i.imgur.com/p3wDwaD.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2012 - Koksijde - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085323</urlsolve>
 <fanart>https://i.imgur.com/zkmoOZ5.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2012 - Koksijde - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085325</urlsolve>
 <fanart>https://i.imgur.com/XCPl23Z.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2011 - Sankt-Wendel - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085322</urlsolve>
 <fanart>https://i.imgur.com/0IPLnEy.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2011 - Sankt-Wendel - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085320</urlsolve>
 <fanart>https://i.imgur.com/AXgAzXz.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2011 - Sankt-Wendel - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085319</urlsolve>
 <fanart>https://i.imgur.com/sfTuUhh.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2011 - Sankt Wendel - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085321</urlsolve>
 <fanart>https://i.imgur.com/BEJitPY.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2010 - Tabor - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085318</urlsolve>
 <fanart>https://i.imgur.com/9rHqkeP.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2010 - Tabor - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085316</urlsolve>
 <fanart>https://i.imgur.com/vrln9Gs.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2010 - Tabor - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085315</urlsolve>
 <fanart>https://i.imgur.com/izO2uFD.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2010 - Tabor - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085317</urlsolve>
 <fanart>https://i.imgur.com/E9cjz8D.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2009 - Hoogerheide - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085221</urlsolve>
 <fanart>https://i.imgur.com/h2Kks0g.jpg</fanart>  
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2009 - Hoogerheide - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085314</urlsolve>
 <fanart>https://i.imgur.com/Bkuyo5D.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2008 - Treviso - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085313</urlsolve>
 <fanart>https://i.imgur.com/GggMa9R.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2008 - Treviso - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085311</urlsolve>
 <fanart>https://i.imgur.com/7pbVldp.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2008 - Treviso - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085310</urlsolve>
 <fanart>https://i.imgur.com/SafIKeK.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2008 - Treviso - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085312</urlsolve>
 <fanart>https://i.imgur.com/VmjCWr4.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2007 - Hooglede-Gits - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085309</urlsolve>
 <fanart>https://i.imgur.com/3FjqqYm.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2007 - Hooglede-Gits - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085307</urlsolve>
 <fanart>https://i.imgur.com/IRGBXUS.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2007 - Hooglede-Gits - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085306</urlsolve>
 <fanart>https://i.imgur.com/NCAiu0s.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2007 - Hooglede-Gits - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085308</urlsolve>
 <fanart>https://i.imgur.com/k9e1nWb.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2006 - Zeddam - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085305</urlsolve>
 <fanart>https://i.imgur.com/Jx4NG7s.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2006 - Zeddam - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085303</urlsolve>
 <fanart>https://i.imgur.com/RWgsKrD.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2006 - Zeddam - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085302</urlsolve>
 <fanart>https://i.imgur.com/L51mRd1.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2006 - Zeddam - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085304</urlsolve>
 <fanart>https://i.imgur.com/6g5VHWK.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2005 - Sankt-Wendel - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085301</urlsolve>
 <fanart>https://i.imgur.com/R0017Oh.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2005 - Sankt-Wendel - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085299</urlsolve>
 <fanart>https://i.imgur.com/8w0XkXO.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2005 - Sankt-Wendel - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085298</urlsolve>
 <fanart>https://i.imgur.com/VStbyw0.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2005 - Sankt-Wendel - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085300</urlsolve>
 <fanart>https://i.imgur.com/XJf6kAa.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2004 - Pontchâteau - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085275</urlsolve>
 <fanart>https://i.imgur.com/tGhJF6p.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2004 - Pontchâteau - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085296</urlsolve>
 <fanart>https://i.imgur.com/upnsmnP.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2004 - Pontchâteau - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085295</urlsolve>
 <fanart>https://i.imgur.com/PWQ1KqG.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2004 - Pontchâteau - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085297</urlsolve>
 <fanart>https://i.imgur.com/IvEzLid.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2003 - Monopoli - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085294</urlsolve>
 <fanart>https://i.imgur.com/g3JDVkF.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2003 - Monopoli - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085292</urlsolve>
 <fanart>https://i.imgur.com/oSb6Pub.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2003 - Monopoli - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085291</urlsolve>
 <fanart>https://i.imgur.com/KZkesQA.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2003 - Monopoli - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085293</urlsolve>
 <fanart>https://i.imgur.com/lcmSRgo.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2002 - Heusden-Zolder - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085274</urlsolve>
 <fanart>https://i.imgur.com/viSHZJF.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2002 - Heusden-Zolder - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085288</urlsolve>
 <fanart>https://i.imgur.com/I0jbiJm.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2002 - Heusden-Zolder - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085287</urlsolve>
 <fanart>https://i.imgur.com/ZLOEbYq.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2002 - Heusden-Zolder - Women Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085289</urlsolve>
 <fanart>https://i.imgur.com/GDRhcsM.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2001 - Tabor - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085273</urlsolve>
 <fanart>https://i.imgur.com/FGjSndl.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2001 - Tabor - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085285</urlsolve>
 <fanart>https://i.imgur.com/CuiiNM6.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2001 - Tabor - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085286</urlsolve>
 <fanart>https://i.imgur.com/7u93SsU.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2000 - Sint-Michielsgestel - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085272</urlsolve>
 <fanart>https://i.imgur.com/Jg8ig1z.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2000 - Sint-Michielsgestel - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085283</urlsolve>
 <fanart>https://i.imgur.com/eFmDuXI.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>2000 - Sint-Michielsgestel - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085284</urlsolve>
 <fanart>https://i.imgur.com/bbX2x5d.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1999 - Poprad - Men Elite</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085282</urlsolve>
 <fanart>https://i.imgur.com/8RbHBy3.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1999 - Poprad - Men U23</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085280</urlsolve>
 <fanart>https://i.imgur.com/aedDFl6.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1999 - Poprad - Men Junior</title>         
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085281</urlsolve>
 <fanart>https://i.imgur.com/WE5nRFa.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1998 - Middelfart - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085279</urlsolve>
 <fanart>https://i.imgur.com/v4qU6E8.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1998 - Middelfart - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085277</urlsolve>
 <fanart>https://i.imgur.com/nFhDFyc.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1998 - Middelfart - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085278</urlsolve>
 <fanart>https://i.imgur.com/ck5HLQf.png</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1997 - München - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085276</urlsolve>
 <fanart>https://i.imgur.com/nnZ59Ng.jpg</fanart>
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1995 - Eschenbach - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085270</urlsolve>
 <fanart>https://i.imgur.com/DVq3pRb.jpg</fanart> 
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1995 - Eschenbach - Men U23</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085524</urlsolve>
 <fanart>https://i.imgur.com/a9Ot8gD.jpg</fanart> 
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1993 - Corva - Men Elite</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085271</urlsolve>
 <fanart>https://i.imgur.com/5Mm1N4p.jpg</fanart> 
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>
 <item>
 <title>1986 - Lembeek - Men Junior</title>
 <urlsolve>https://my.mail.ru/video/embed/9131404748254085521</urlsolve>
 <fanart>https://i.imgur.com/ieAjtaN.jpg</fanart> 
-<thumbnail>https://i.imgur.com/pIJAXEN.jpg</thumbnail>   
 </item>  
 </items>
