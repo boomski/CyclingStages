@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>EUROSPORT</title>         
+<title>START</title>         
 <urlsolve></urlsolve>
-<fanart></fanart> 
+<fanart>https://i.imgur.com/IqPWQbj.jpg</fanart> 
 </item>
 <item>
-<title>EUROSPORT</title>         
+<title>211 KM > 99 KM</title>         
 <urlsolve></urlsolve>
-<fanart></fanart> 
+<fanart>https://i.imgur.com/6Me45y5.jpg</fanart> 
 </item>
 <item>
-<title>EUROSPORT</title>         
+<title>FINAL</title>         
 <urlsolve></urlsolve>
-<fanart></fanart> 
-</item>
-<item>
-<title>EUROSPORT</title>         
-<urlsolve></urlsolve>
-<fanart></fanart> 
+<fanart>https://i.imgur.com/UUs9OnB.jpg</fanart> 
 </item>
 </items>
