@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+<item>
+<title>START</title>         
+<urlsolve></urlsolve>
+<fanart>https://i.imgur.com/yqt5vEq.png</fanart> 
+</item>
+<item>
+<title>FINAL</title>         
+<urlsolve></urlsolve>
+<fanart>https://i.imgur.com/yloG4v1.png</fanart> 
+</item>
+</items>
