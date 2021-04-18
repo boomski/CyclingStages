@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>2021 | Amstel Gold Race (1.UWT)</title>         
+<title>2021 | Liège-Bastogne-Liège (1.UWT)</title>         
 <fanart></fanart>  
 <urlsolve></urlsolve>  
+</item>    
+<item>
+<title>2021 | La Flèche Wallonne (1.UWT)</title>         
+<fanart></fanart>  
+<urlsolve></urlsolve>  
+</item>   
+<item>
+<title>2021 | Tour of the Alps (2.Pro)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<fanart>https://i.imgur.com/1F9AF2U.jpg</fanart>  
+</item>  
+<item>
+<title>2021 | Amstel Gold Race (1.UWT)</title>         
+<fanart>https://i.imgur.com/tpoab2i.jpg</fanart>  
+<urlsolve></urlsolve>  
+</item>  
+<item>
+<title>2021 | Vuelta a Colombia (2.2)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<fanart>https://i.imgur.com/1VmF7UW.jpg</fanart>  
 </item>  
 <item>
 <title>2021 | De Brabantse Pijl - La Flèche Brabançonne (1.Pro)</title>         
