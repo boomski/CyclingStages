@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
   
-  
+<item>
+<title>2021 | GP Vorarlberg (NE)</title>         
+<fanart>https://i.imgur.com/rdWHz6j.jpg</fanart>  
+<urlsolve></urlsolve>  
+</item>  
 <item>
 <title>2021 | Tour de Romandie (2.UWT)</title>
 <link>ignoreme</link>
