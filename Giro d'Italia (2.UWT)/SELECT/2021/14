@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>MAIL.RU | Stage 14  »  Cittadella › Monte Zoncolan</title> 
+<title>START | Stage 14  »  Cittadella › Monte Zoncolan</title> 
+<fanart>https://i.imgur.com/qb0e8dv.jpg</fanart>
+<urlsolve></urlsolve>  
+<item>   
+<item>
+<title>FINAL | Stage 14  »  Cittadella › Monte Zoncolan</title> 
 <fanart>https://i.imgur.com/XDn6cXn.jpg</fanart>
 <urlsolve></urlsolve>  
 <item> 
 <item>
-<title>LBRY | Stage 14  »  Cittadella › Monte Zoncolan</title> 
+<title>FULL RACE | Stage 14  »  Cittadella › Monte Zoncolan</title> 
 <fanart>https://i.imgur.com/XDn6cXn.jpg</fanart>
-<link></link>  
+<link>https://cdn.lbryplayer.xyz/api/v4/streams/free/2021.giro.14/2bfa657111c85cc7b0ab17892068e82cdcfc1b14/86bf3a</link>  
 <item>  
 </items>
