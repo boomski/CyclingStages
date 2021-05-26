@@ -3,11 +3,11 @@
 <item>
 <title>MAIL.RU | Stage 3  »  Biella  ›  Canale</title> 
 <fanart>https://i.imgur.com/mBx8Af1.jpg</fanart>
-<urlsolve></urlsolve>  
-<item> 
+<urlsolve>https://my.mail.ru/video/embed/7478102549887713501</urlsolve>  
+</item> 
 <item>
 <title>LBRY | Stage 3  »  Biella  ›  Canale</title> 
 <fanart>https://i.imgur.com/mBx8Af1.jpg</fanart>
 <link>https://cdn.lbryplayer.xyz/api/v3/streams/free/2021.giro.3/8392f22eeb01ac9612413a06978861fb14f06235/3ca3e6</link>  
-<item>  
+</item>  
 </items>
