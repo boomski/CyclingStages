@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>MAIL.RU | Stage 18  »  Rovereto › Stradella</title> 
-<fanart></fanart>
+<title>START | Stage 18  »  Rovereto › Stradella</title> 
+<fanart>https://i.imgur.com/p1WgQUw.jpg</fanart>
 <urlsolve></urlsolve>  
 </item> 
 <item>
-<title>LBRY | Stage 18  »  Rovereto › Stradella</title> 
-<fanart></fanart>
+<title>FINAL | Stage 18  »  Rovereto › Stradella</title> 
+<fanart>https://i.imgur.com/UjTohtQ.jpg</fanart>
+<urlsolve></urlsolve>  
+</item>  
+<item>
+<title>FULL RACE | Stage 18  »  Rovereto › Stradella</title> 
+<fanart>https://i.imgur.com/UjTohtQ.jpg</fanart>
 <link></link>  
 </item>  
 </items>
