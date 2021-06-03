@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-  
+<item>
+<title>2021 | Tour of Slovenia (2.Pro)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>  
+</item>
+<item>
+<title>2021 | Baloise Belgium Tour (2.Pro)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>  
+</item>   
+<item>
+<title>2021 | Mont Ventoux Dénivelé Challenge (1.1)</title>         
+<fanart></fanart>  
+<urlsolve></urlsolve>  
+</item>
+<item>
+<title>2021 | Tour de Suisse (2.UWT)</title>
+<link>ignoreme</link>
+<externallink></externallink>
+<fanart>https://i.imgur.com/mXegGLD.jpg</fanart>  
+</item>    
+<item>
+<title>2021 | Elfstedenronde (1.1)</title>         
+<fanart></fanart>  
+<urlsolve></urlsolve>  
+</item>   
+<item>
+<title>2021 | Dwars door het Hageland (1.Pro)</title>         
+<fanart></fanart>  
+<urlsolve></urlsolve>  
+</item>  
 <item>
 <title>2021 | Critérium du Dauphiné (2.UWT)</title>
 <link>ignoreme</link>
