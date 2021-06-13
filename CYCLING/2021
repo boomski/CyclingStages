@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2021 | Campeonato de Cantabria (NE)</title>         
+<fanart>https://i.imgur.com/Uh3TbWf.png</fanart>  
+<urlsolve></urlsolve>  
+</item>  
+<item>
 <title>2021 | Oberösterreichrundfahrt (2.2)</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Ober%C3%B6sterreichrundfahrt%20(2.2)/2021</externallink>
