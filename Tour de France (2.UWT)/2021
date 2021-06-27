@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>2021 | Stage 1 » Brest › Landerneau | [LBRY]</title>         
+<title>2021 | Stage 1 » Brest › Landerneau | [EUROSPORT]</title>         
 <link>https://cdn.lbryplayer.xyz/api/v4/streams/free/TDF21.1/8a519f53d11d7ca3ab0f214069f76e065a26e268/fd101e</link>
 <fanart>https://i.imgur.com/umWiL7n.jpg</fanart>  
 </item>
 <item>
-<title>2021 | Stage 2 » Perros-Guirec › Mûr-de-Bretagne Guerlédan</title>         
+<title>2021 | Stage 1 » Brest › Landerneau | [SPORZA]</title>         
+<urlsolve>https://my.mail.ru/video/embed/7478102549887713638</urlsolve>
+<fanart>https://i.imgur.com/umWiL7n.jpg</fanart>  
+</item>  
+<item>
+<title>2021 | Stage 2 » Perros-Guirec › Mûr-de-Bretagne Guerlédan | [EUROSPORT]</title>         
 <link></link>
 <fanart></fanart>  
 </item>
+<item>
+<title>2021 | Stage 2 » Perros-Guirec › Mûr-de-Bretagne Guerlédan | [SPORZA]</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>  
+</item>  
 <item>
 <title>2021 | Stage 3 » Lorient › Pontivy</title>         
 <link></link>
