@@ -22,12 +22,12 @@
 </item>  
 <item>
 <title>2021 | Stage 3 » Lorient › Pontivy | [EUROSPORT]</title>         
-<link></link>
+<link>https://cdn.lbryplayer.xyz/api/v4/streams/free/TDF21.3/45f0d32bbd30d8cfe37fed39240a69b4062247e8/218deb</link>
 <fanart>https://i.imgur.com/xlhTNDm.jpg</fanart>  
 </item>
 <item>
 <title>2021 | Stage 3 » Lorient › Pontivy | [SPORZA]</title>         
-<urlsolve></urlsolve>
+<urlsolve>https://my.mail.ru/video/embed/7478102549887713640</urlsolve>
 <fanart>https://i.imgur.com/xlhTNDm.jpg</fanart>  
 </item>  
 <item>
@@ -41,10 +41,15 @@
 <fanart></fanart>  
 </item>  
 <item>
-<title>2021 | Stage 5 (ITT) » Changé › Laval Espace Mayenne</title>         
+<title>2021 | Stage 5 (ITT) » Changé › Laval Espace Mayenne | [EUROSPORT]</title>         
 <link></link>
 <fanart></fanart>  
 </item>
+<item>
+<title>2021 | Stage 5 (ITT) » Changé › Laval Espace Mayenne | [SPORZA]</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>  
+</item>  
 <item>
 <title>2021 | Stage 6 » Tours › Châteauroux</title>         
 <link></link>
