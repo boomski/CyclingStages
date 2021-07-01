@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>2021 | Grote Prijs Rik Van Looy (1.12)</title>         
+<fanart>https://i.imgur.com/ZbtNMKo.jpg</fanart>  
+<urlsolve></urlsolve>  
+</item>   
+<item>
 <title>2021 | Tour de France (2.UWT)</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/CyclingStages/master/Tour%20de%20France%20(2.UWT)/2021</externallink>
