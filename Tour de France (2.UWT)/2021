@@ -73,18 +73,23 @@
 <item>
 <title>2021 | Stage 8 » Oyonnax › Le Grand-Bornand | [EUROSPORT]</title>         
 <link></link>
-<fanart></fanart>  
+<fanart>https://i.imgur.com/mz8m3pd.jpg</fanart>  
 </item>
 <item>
 <title>2021 | Stage 8 » Oyonnax › Le Grand-Bornand | [SPORZA]</title>         
 <urlsolve></urlsolve>
-<fanart></fanart>  
+<fanart>https://i.imgur.com/mz8m3pd.jpg</fanart>  
 </item>  
 <item>
-<title>2021 | Stage 9 » Cluses › Tignes</title>         
+<title>2021 | Stage 9 » Cluses › Tignes | [EUROSPORT]</title>         
 <link></link>
 <fanart></fanart>  
 </item>
+<item>
+<title>2021 | Stage 9 » Cluses › Tignes | [SPORZA]</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>  
+</item>  
 <item>
 <title>2021 | Stage 10 » Albertville › Valence</title>         
 <link></link>
