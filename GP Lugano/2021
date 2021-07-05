@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+<item>
+<title>START</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>  
+</item> 
+<item>
+<title>FINAL</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>  
+</item>
+<item>
+<title>FULL RACE</title>         
+<link>https://cdn.lbryplayer.xyz/api/v4/streams/free/21Lugano/45fbb2f7293a5eaace5293c7d20d3bf8397ffded/4a1f6d</link>
+<fanart></fanart>  
+</item>
+<items>
