@@ -93,18 +93,23 @@
 <item>
 <title>2021 | Stage 10 » Albertville › Valence | [EUROSPORT]</title>         
 <link></link>
-<fanart></fanart>  
+<fanart>https://i.imgur.com/8Yfioo8.jpg</fanart>  
 </item>
 <item>
 <title>2021 | Stage 10 » Albertville › Valence | [SPORZA]</title>         
 <urlsolve></urlsolve>
-<fanart></fanart>  
+<fanart>https://i.imgur.com/8Yfioo8.jpg</fanart>  
 </item>  
 <item>
-<title>2021 | Stage 11 » Sorgues › Malaucène</title>         
+<title>2021 | Stage 11 » Sorgues › Malaucène | [EUROSPORT]</title>         
 <link></link>
 <fanart></fanart>  
 </item>
+<item>
+<title>2021 | Stage 11 » Sorgues › Malaucène | [SPORZA]</title>         
+<urlsolve></urlsolve>
+<fanart></fanart>  
+</item>  
 <item>
 <title>2021 | Stage 12 » Saint-Paul-Trois-Châteaux › Nîmes</title>         
 <link></link>
